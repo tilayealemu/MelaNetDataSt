@@ -9,9 +9,12 @@ tar xzf data.tar.gz
 ```
 
 ## Acknowledgement
-This data has been extracted from [ALFFA_PUBLIC](https://github.com/getalp/ALFFA_PUBLIC). A big thanks to the following people (in alphabetical order):
-- ELodie Gauthier
+Data has been collected as part of a paper entitled [An Amharic Speech Corpus for Large Vocabulary Continuous Speech Recognition](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1601.pdf) and was extracted from [ALFFA_PUBLIC](https://github.com/getalp/ALFFA_PUBLIC) github repo. A big thanks to the following people (in alphabetical order):
+- Bairu Tafila
+- Elodie Gauthier
 - Laurent Besacier
 - Martha Tachbelie
 - Michael Melese
 - Million Meshesha
+- Solomon Teferra Abate
+- Wolfgang Menzel
