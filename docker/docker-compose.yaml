@@ -1,0 +1,11 @@
+version: '2'
+services:
+  melanet:
+    container_name: melanet
+    image: tilayealemu/melanet
+    tty: true
+    volumes:
+     - ..:/notebooks
+    ports:
+     - "8888:8888"
+     - "6606:6606"
