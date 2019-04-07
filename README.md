@@ -3,9 +3,9 @@ Data for Amharic speech recognition. Use together with [melanet](https://github.
 To extract:
 ```
 git clone git@github.com:tilayealemu/melanet-data
-cd melanet-data/data
-cat data.tar.gz.* > data.tar.gz
-tar xzf data.tar.gz
+cd melanet-data/data_st/wav
+cat wav.tar.gz.* > wav.tar.gz
+tar xzf wav.tar.gz
 ```
 
 ## Acknowledgement
