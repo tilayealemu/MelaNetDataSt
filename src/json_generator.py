@@ -18,7 +18,7 @@ def generate_json(trans_file, wav_base_dir, output_file):
         split = line.strip().split(",")
         label = split[0]
         file_id = split[1]
-        audio_file = os.path.join(wav_base_dir, file_id) + '.wav'
+        audio_file = os.path.join(wav_base_dir, file_id)
         audio = wave.open(audio_file)
         duration = float(audio.getnframes()) / audio.getframerate()
         audio.close()
